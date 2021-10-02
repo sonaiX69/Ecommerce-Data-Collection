@@ -1,0 +1,16 @@
+[
+    {
+        "customer":"Riya Mandal",
+        "purchased":{
+            "grocery":[
+                "milk","bread","butter","biscuit"
+            ],
+            "vegetables":[
+                "potato","onion","garlic"
+            ],
+            "electronics":[
+                "battery","ear-phone"
+            ]
+        }
+    }
+]

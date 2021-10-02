@@ -1,0 +1,14 @@
+[
+    {
+        "product":"Milk",
+        "category":"Grocery",
+        "price":40,
+        "company":"Amul Dairy"
+    },
+    {
+        "product":"Bread",
+        "category":"Grocery",
+        "price":20,
+        "company":"Brittania"
+    }
+]
