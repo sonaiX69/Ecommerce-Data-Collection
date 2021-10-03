@@ -77,4 +77,10 @@
         "price": 450,
         "company": "Allen Solly"
   },
+       {
+        "product": "Gold Plated Chain",
+        "category": "Jewellery",
+        "price": 20000,
+        "company": "P.C.Chandra Jewelers"
+  }
 ]
