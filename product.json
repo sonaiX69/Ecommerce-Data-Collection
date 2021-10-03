@@ -82,5 +82,11 @@
         "category": "Jewellery",
         "price": 20000,
         "company": "P.C.Chandra Jewelers"
+  },
+       {
+        "product": "Othello",
+        "category": "Book",
+        "price": 150,
+        "company": "Sultan Chand"
   }
 ]
