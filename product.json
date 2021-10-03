@@ -106,5 +106,11 @@
         "category": "Vegetables",
         "price": 50,
         "company": "Reliance Fresh"
+  },
+    {
+        "product": "Potato",
+        "category": "Vegetables",
+        "price": 24,
+        "company": "Reliance Fresh"
   }
 ]
