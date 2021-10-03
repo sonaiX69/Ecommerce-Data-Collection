@@ -112,5 +112,11 @@
         "category": "Vegetables",
         "price": 24,
         "company": "Reliance Fresh"
+  },
+    {
+        "product": "Lip Balm",
+        "category": "Beauty",
+        "price": 280,
+        "company": "Nivea"
   }
 ]
