@@ -41,4 +41,18 @@
                 ]
         }
     }
+{
+        "customer":"Suvajit Bhuinya",
+        "purchased":{
+            "grocery":[
+                "paneer","Mayonnaise"," Cooking oil","Cheez"
+            ],
+            "vegetables":[
+                "Cabbage","Tomato","Potato","Ginger"
+            ],
+            "electronics":[
+                "Oneplus 7t phone"
+            ]
+        }
+    }
 ]
