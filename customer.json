@@ -196,5 +196,24 @@
                 "Charger"
             ]
         }
+    },
+     {
+        "customer": "Monke",
+        "purchased": {
+            "grocery": [
+                "sugar",
+                "chilli flakes",
+                "salt",
+                "viniger"
+            ],
+            "electronics": [
+                "Nokia 6.1 plus",
+                "ear-phone"
+            ],
+            "garments": [
+                "Black Joggers",
+                "Black T-shirt"
+            ]
+        }
     }
 ]
