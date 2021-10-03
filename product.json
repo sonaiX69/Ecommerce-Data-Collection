@@ -52,5 +52,23 @@
         "category": "Grocery",
         "price": 100,
         "company": "Go Cheese"
+  },
+    {
+        "product": "DTH",
+        "category": "Electronics",
+        "price": 2000,
+        "company": "DishTv"
+    },
+    {
+        "product": "Realme 7",
+        "category": "Electronics",
+        "price": 14000,
+        "company": "Realme"
+    },
+    {
+        "product": "Shaving Cream",
+        "category": "Beauty",
+        "price": 100,
+        "company": "Gillette"
     }
 ]

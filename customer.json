@@ -142,6 +142,58 @@
                 "Kitchen Appron",
                 "Kitchen Hat",
                 "Towel"
+              ]
+            }
+        },
+{
+        "customer": "Harsha Pati",
+        "purchased": {
+            "vegetables": [
+                "onion",
+                "garlic",
+                "potato"
+            ],
+            "beauty": [
+                "Shaving Cream",
+                "Aftershave Lotion"
+            ]
+        }
+    },
+    {
+        "customer": "Ajay Sahoo",
+        "purchased": {
+            "vegetables": [
+                "onion",
+                "potato"
+            ],
+            "grocery": [
+                "Sugar",
+                "salt",
+                "Tea",
+                "Milk"
+            ]
+        }
+    },
+    {
+        "customer": "Dipayan Mukherjee",
+        "purchased": {
+            "vegetables": [
+                "onion",
+                "potato",
+                "Tomato",
+                "Cabbage",
+                "garlic",
+                "chilly"
+            ],
+            "grocery": [
+                "Orange juice",
+                "bread",
+                "butter"
+            ],
+            "electronics": [
+                "iphone 12",
+                "Screen Guard",
+                "Charger"
             ]
         }
     }
