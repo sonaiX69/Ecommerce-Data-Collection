@@ -1,38 +1,44 @@
 [
     {
-        "product":"Milk",
-        "category":"Grocery",
-        "price":40,
-        "company":"Amul Dairy"
+        "product": "Milk",
+        "category": "Grocery",
+        "price": 40,
+        "company": "Amul Dairy"
     },
     {
-        "product":"Bread",
-        "category":"Grocery",
-        "price":20,
-        "company":"Brittania"
-    },
-     {
-        "product":"Butter",
-        "category":"Grocery",
-        "price":50,
-        "company":"Brittania"
+        "product": "Bread",
+        "category": "Grocery",
+        "price": 20,
+        "company": "Brittania"
     },
     {
-        "product":"Cheese",
-        "category":"Grocery",
-        "price":232,
-        "company":"Amul"
-    },
-     {
-        "product":"Veg Mayonnaise",
-        "category":"Grocery",
-        "price":249,
-        "company":"Dr. OETKER FUN FOODS"
+        "product": "Butter",
+        "category": "Grocery",
+        "price": 50,
+        "company": "Brittania"
     },
     {
-        "product":"Paneer",
-        "category":"Grocery",
-        "price":68,
-        "company":"Amul"
+        "product": "Cheese",
+        "category": "Grocery",
+        "price": 232,
+        "company": "Amul"
+    },
+    {
+        "product": "Veg Mayonnaise",
+        "category": "Grocery",
+        "price": 249,
+        "company": "Dr. OETKER FUN FOODS"
+    },
+    {
+        "product": "Paneer",
+        "category": "Grocery",
+        "price": 68,
+        "company": "Amul"
+    },
+    {
+        "product": "Cooking Oil",
+        "category": "Grocery",
+        "price": 190,
+        "company": "Emami"
     }
 ]

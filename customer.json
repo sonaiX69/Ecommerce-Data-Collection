@@ -1,57 +1,99 @@
 [
     {
-        "customer":"Riya Mandal",
-        "purchased":{
-            "grocery":[
-                "milk","bread","butter","biscuit"
+        "customer": "Riya Mandal",
+        "purchased": {
+            "grocery": [
+                "milk",
+                "bread",
+                "butter",
+                "biscuit"
             ],
-            "vegetables":[
-                "potato","onion","garlic"
+            "vegetables": [
+                "potato",
+                "onion",
+                "garlic"
             ],
-            "electronics":[
-                "battery","ear-phone"
+            "electronics": [
+                "battery",
+                "ear-phone"
             ]
         }
     },
     {
-        "customer":"Bhitu Billi",
-        "purchased":{
-            "grocery":[
-                "sugar","salt",
+        "customer": "Bhitu Billi",
+        "purchased": {
+            "grocery": [
+                "sugar",
+                "salt",
             ],
-            "electronics":[
-                "Redmi Note-8","Phone Back-Cover"
+            "electronics": [
+                "Redmi Note-8",
+                "Phone Back-Cover"
             ],
-            "garments":[
-                    "Black Top","Black Shorts","Skirt"
-                ]
+            "garments": [
+                "Black Top",
+                "Black Shorts",
+                "Skirt"
+            ]
         }
     },
-     {
-        "customer":"Rubi Mandal",
-        "purchased":{
-            "books":[
-                "Romeo and Juliet","Othello",
+    {
+        "customer": "Rubi Mandal",
+        "purchased": {
+            "books": [
+                "Romeo and Juliet",
+                "Othello",
             ],
-            "jewellary":[
-                "Gold plated chain","Earrings"
+            "jewellary": [
+                "Gold plated chain",
+                "Earrings"
             ],
-            "fruits":[
-                    "Apple","Banana","Orange"
-                ]
+            "fruits": [
+                "Apple",
+                "Banana",
+                "Orange"
+            ]
         }
     },
-{
-        "customer":"Suvajit Bhuinya",
-        "purchased":{
-            "grocery":[
-                "paneer","Mayonnaise"," Cooking oil","Cheese"
+    {
+        "customer": "Suvajit Bhuinya",
+        "purchased": {
+            "grocery": [
+                "paneer",
+                "Mayonnaise",
+                " Cooking oil",
+                "Cheese"
             ],
-            "vegetables":[
-                "Cabbage","Tomato","Potato","Ginger"
+            "vegetables": [
+                "Cabbage",
+                "Tomato",
+                "Potato",
+                "Ginger"
             ],
-            "electronics":[
+            "electronics": [
                 "Oneplus 7t phone"
+            ]
+        }
+    },
+    {
+        "customer": "Puskal Mukherjee",
+        "purchased": {
+            "grocery": [
+                "Cooking oil",
+                "Butter",
+                "Milk",
+                "Biscuit"
+            ],
+            "electronics": [
+                "Realme7",
+                "Sony Earphone",
+                "Screen Guard",
+                "Back Cover"
+            ],
+            "beauty": [
+                "Shaving Cream",
+                "Shaving Razor",
+                "Aftershave Lotion"
             ]
         }
     }
