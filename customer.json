@@ -114,5 +114,19 @@
                 "DTH"
             ]
         }
+    },
+    {
+        "customer": "Harsha Pati",
+        "purchased": {
+            "vegetables": [
+                "onion",
+                "garlic",
+                "potato"
+            ],
+            "beauty": [
+                "Shaving Cream",
+                "Aftershave Lotion"
+            ]
+        }
     }
 ]

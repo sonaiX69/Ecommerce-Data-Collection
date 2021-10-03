@@ -46,5 +46,11 @@
         "category": "Electronics",
         "price": 40000,
         "company": "SONY"
+    },
+    {
+        "product": "DTH",
+        "category": "Electronics",
+        "price": 2000,
+        "company": "DishTv"
     }
 ]
