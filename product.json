@@ -100,5 +100,11 @@
         "category": "Grocery",
         "price": 90,
         "company": "Druk"
+  },
+    {
+        "product": "Onions",
+        "category": "Vegetables",
+        "price": 50,
+        "company": "Reliance Fresh"
   }
 ]
