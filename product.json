@@ -94,5 +94,11 @@
         "category": "Vegetables",
         "price": 40,
         "company": "Reliance Fresh"
+  },
+    {
+        "product": "Jelly",
+        "category": "Grocery",
+        "price": 90,
+        "company": "Druk"
   }
 ]
