@@ -96,5 +96,23 @@
                 "Aftershave Lotion"
             ]
         }
+    },
+    {
+        "customer": "Saurabh Shankar Prasad Mishra",
+        "purchased": {
+            "grocery": [
+                "Bread",
+                "Butter",
+                "Milk",
+                "Biscuit",
+                "Salt",
+                "Egg",
+                "Orange juice"
+            ],
+            "electronics": [
+                "TV",
+                "DTH"
+            ]
+        }
     }
 ]
