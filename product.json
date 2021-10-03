@@ -40,5 +40,11 @@
         "category": "Grocery",
         "price": 190,
         "company": "Emami"
+    },
+    {
+        "product": "TV",
+        "category": "Electronics",
+        "price": 40000,
+        "company": "SONY"
     }
 ]
