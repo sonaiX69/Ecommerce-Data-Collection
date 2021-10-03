@@ -27,4 +27,18 @@
                 ]
         }
     }
+     {
+        "customer":"Rubi Mandal",
+        "purchased":{
+            "books":[
+                "Romeo and Juliet","Othello",
+            ],
+            "jewellary":[
+                "Gold plated chain","Earrings"
+            ],
+            "fruits":[
+                    "Apple","Banana","Orange"
+                ]
+        }
+    }
 ]
