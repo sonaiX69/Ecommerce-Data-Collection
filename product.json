@@ -28,5 +28,11 @@
         "category":"Grocery",
         "price":249,
         "company":"Dr. OETKER FUN FOODS"
+    },
+    {
+        "product":"Paneer",
+        "category":"Grocery",
+        "price":68,
+        "company":"Amul"
     }
 ]
