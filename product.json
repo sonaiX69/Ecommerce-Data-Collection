@@ -3,7 +3,7 @@
         "product": "Milk",
         "category": "Grocery",
         "price": 40,
-        "company": "Amul Dairy"
+        "company": "Amul"
     },
     {
         "product": "Bread",
@@ -46,5 +46,11 @@
         "category": "Electronics",
         "price": 40000,
         "company": "SONY"
+    },
+     {
+        "product": "Cheese",
+        "category": "Grocery",
+        "price": 100,
+        "company": "Go Cheese"
     }
 ]
