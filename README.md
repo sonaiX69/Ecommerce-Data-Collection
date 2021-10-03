@@ -1,7 +1,9 @@
 
-# Ecommerce Data Collection
+# Ecommerce Data Collection🌌
 
 Welcome to this repo, this repo will be collectiong data on Ecommerce products and its customers.
+
+![](https://i.pinimg.com/564x/83/46/dc/8346dcb07a2984d98b9d221aaa57098c.jpg)
 
 ## Collection Requirement :
 
