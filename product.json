@@ -47,12 +47,6 @@
         "price": 40000,
         "company": "SONY"
     },
-     {
-        "product": "Cheese",
-        "category": "Grocery",
-        "price": 100,
-        "company": "Go Cheese"
-  },
     {
         "product": "DTH",
         "category": "Electronics",
@@ -70,5 +64,17 @@
         "category": "Beauty",
         "price": 100,
         "company": "Gillette"
-    }
+    },
+       {
+        "product": "Ear-Phone",
+        "category": "Electronics",
+        "price": 500,
+        "company": "Boat"
+  },
+       {
+        "product": "Kitchen Appron",
+        "category": "Garments",
+        "price": 450,
+        "company": "Allen Solly"
+  },
 ]
