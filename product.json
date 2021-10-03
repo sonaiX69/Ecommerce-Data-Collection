@@ -16,5 +16,11 @@
         "category":"Grocery",
         "price":50,
         "company":"Brittania"
+    },
+    {
+        "product":"Cheese",
+        "category":"Grocery",
+        "price":232,
+        "company":"Amul"
     }
 ]
