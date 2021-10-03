@@ -12,5 +12,19 @@
                 "battery","ear-phone"
             ]
         }
+    },
+    {
+        "customer":"Bhitu Billi",
+        "purchased":{
+            "grocery":[
+                "sugar","salt",
+            ],
+            "electronics":[
+                "Redmi Note-8","Phone Back-Cover"
+            ],
+            "garments":[
+                    "Black Top","Black Shorts","Skirt"
+                ]
+        }
     }
 ]

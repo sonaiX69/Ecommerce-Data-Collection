@@ -10,5 +10,11 @@
         "category":"Grocery",
         "price":20,
         "company":"Brittania"
+    },
+     {
+        "product":"Butter",
+        "category":"Grocery",
+        "price":50,
+        "company":"Brittania"
     }
 ]
