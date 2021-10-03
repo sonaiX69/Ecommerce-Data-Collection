@@ -3,7 +3,7 @@
         "product": "Milk",
         "category": "Grocery",
         "price": 40,
-        "company": "Amul Dairy"
+        "company": "Amul"
     },
     {
         "product": "Bread",
@@ -47,6 +47,12 @@
         "price": 40000,
         "company": "SONY"
     },
+     {
+        "product": "Cheese",
+        "category": "Grocery",
+        "price": 100,
+        "company": "Go Cheese"
+  },
     {
         "product": "DTH",
         "category": "Electronics",
@@ -58,7 +64,7 @@
         "category": "Electronics",
         "price": 14000,
         "company": "Realme"
-    }
+    },
     {
         "product": "Shaving Cream",
         "category": "Beauty",
