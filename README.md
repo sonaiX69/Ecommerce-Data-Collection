@@ -94,6 +94,8 @@ all you have to do is fork down my repo in your local machine & contribute data 
 
 That in products.json the product name should be unique and in the PR please attach the proof that the product name does'nt exist and that it is newly added, check using ctrl + F(Windpws)/cmd + F(Mac) that the product name already exists or not✌️😄
 
+Please remember that products name should be unique🙂✌️
+
 #### Wrong Data Entry❌
 ![Screenshot (69)](https://user-images.githubusercontent.com/76695320/135745955-bd12752f-e163-43f6-abd0-298719816c4e.jpg)
 
