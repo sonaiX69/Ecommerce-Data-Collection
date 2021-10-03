@@ -22,5 +22,11 @@
         "category":"Grocery",
         "price":232,
         "company":"Amul"
+    },
+     {
+        "product":"Veg Mayonnaise",
+        "category":"Grocery",
+        "price":249,
+        "company":"Dr. OETKER FUN FOODS"
     }
 ]
