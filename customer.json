@@ -114,5 +114,35 @@
                 "DTH"
             ]
         }
+    },
+    {
+        "customer": "Shrey Mandal",
+        "purchased": {
+            "grocery": [
+                "Mustard Sauce",
+                "Burger Bun",
+                "Tomato Ketchup",
+                "Mayonnaise",
+                "CHeese",
+                "Black Olive",
+                "Olive Oil"
+            ],
+            "vegetables": [
+                "Tomato",
+                "Lettuce",
+                "Onion",
+                "Garlic",
+                "Cucumber"
+            ],
+            "electronics": [
+                "Microwave",
+                "Chimney"
+            ],
+            "garments":[
+                "Kitchen Appron",
+                "Kitchen Hat",
+                "Towel"
+            ]
+        }
     }
 ]
