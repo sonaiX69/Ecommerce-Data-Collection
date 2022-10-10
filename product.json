@@ -119,4 +119,10 @@
         "price": 20,
         "company": "Cadbury"
     },
+    {
+        "product": "Egg",
+        "category": "Grocery",
+        "price": 7,
+        "company": "Poltu Eggs"
+    },
 ]
