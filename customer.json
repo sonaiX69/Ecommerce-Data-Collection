@@ -215,5 +215,22 @@
                 "Black T-shirt"
             ]
         }
-    }
+    },
+    {
+        "customer": "Ape Man",
+        "purchased": {
+            "grocery": [
+                "sugar",
+                "chilli flakes",
+            ],
+            "electronics": [
+                "Realme 9 SE",
+                "Phone Back-Cover"
+            ],
+            "garments": [
+                "Black Joggers",
+                "Black T-Shirt",
+            ]
+        }
+    },
 ]
